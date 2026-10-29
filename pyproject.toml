@@ -1,0 +1,21 @@
+[project]
+name = "ibtracs-v04r01-2026-10"
+version = "0.1.0"
+description = "Frozen copy of IBTrACS v04r01 (NOAA NCEI), all basins, with a Parquet table of the per-observation rows"
+requires-python = ">=3.12"
+dependencies = ["huggingface-hub>=2.2.0", "pyarrow>=26.0.0"]
+
+[dependency-groups]
+dev = ["pytest>=9.1.1", "ruff>=0.16.9", "duckdb>=1.5.5", "h5netcdf>=1.4.0", "h5py>=3.12", "numpy>=2.0"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["scripts"]
