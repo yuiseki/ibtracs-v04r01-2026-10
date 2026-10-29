@@ -1,0 +1,38 @@
+{
+ "repo": "yuiseki/ibtracs-v04r01-2026-10",
+ "revision": "3407efc2b694b9aeaa679982715a5e8a33146c7c",
+ "files_checked": 15,
+ "rows": 730304,
+ "columns": 174,
+ "nonnull_total_cells": 22371528,
+ "value_counts": {
+  "BASIN": {
+   "EP": 67112,
+   "NA": 127584,
+   "NI": 57862,
+   "SA": 119,
+   "SI": 165114,
+   "SP": 68694,
+   "WP": 243819
+  },
+  "NATURE": {
+   "DS": 29699,
+   "ET": 30638,
+   "MX": 27201,
+   "NR": 85277,
+   "SS": 3375,
+   "TS": 554114
+  },
+  "TRACK_TYPE": {
+   "PROVISIONAL": 4159,
+   "US-PROVISIONAL": 6323,
+   "US-PROVISIONAL_spur": 25,
+   "main": 710515,
+   "spur-merge": 2871,
+   "spur-other": 1621,
+   "spur-split": 4790
+  }
+ },
+ "distinct_sid": 13631,
+ "problems": []
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "yuiseki/ibtracs-v04r01-2026-10",
+ "revision": "3407efc2b694b9aeaa679982715a5e8a33146c7c",
+ "sha256": {
+  "README.md": "4a8ab0a9c0e69de4ad23ab6b72ad543147268059cd5f2cafa5bf155aad5b8d3b",
+  "LICENSE": "8eac4923c3c4d647b09ec7ecde58ba786fd5e7716a5426ff3c31720d87c3271b",
+  "provenance.yaml": "20d758b85cf728a581724b17ffac9fe10c85d0308b570e81793c34bb02500f75",
+  "parquet/ibtracs_all_observations.parquet": "e380c5c9f57a061c2ce7a0866cb97e9d0a08e0faf32cb8ef542aa20cd3b2a5bd",
+  "parquet/tables.json": "6e3d33738eae9001e2b433c9d0776683e38f499ada16fe9bb8eab417f71ef40e",
+  "raw/20261027/ibtracs.ALL.list.v04r01.csv": "aec31872c58d4509d1bc5f9746bea6074ec208a2c3aba4ceff32bacd0b2059e2",
+  "raw/20261027/IBTrACS.ALL.v04r01.nc": "8a03817b9d4057b50b5d54e940693fe59bf79aec161134ff85cd52dd061f3697",
+  "raw/20261027/IBTrACS_SerialNumber_NameMapping_v04r01_20261027.txt": "784c2c59542f6af00aec9769c6441a1aacd007218fc6933c2b050423e9e80bd2",
+  "raw/20261027/IBTrACS_v04r01_change_log.txt": "28d908cff3c0fd16b3290bc1d151d24a980290ddab77a478e51690d2e37a9479",
+  "raw/20261027/MANIFEST.json": "9656593262e1e41dc06cdef7f4b7dcfe00ead0b5f8583317c7cbefca4ac5b973",
+  "evidence/ncei_C01552_iso19115.xml": "2de41caa2bb56ec208a9f5e3d7a68013ff83cdbcf6ef4262765c74ad6bee268b",
+  "evidence/ncei_ibtracs_product_page.html": "a04755c45e1f746ee6bf203ca6c284a04831d78b604b326417195932e42b49ed",
+  "docs/columns.tsv": "9d8055793afceca26673039dbfcb59ab578e69bdafea9bc28d07ebea752b2e51",
+  "docs/nc_global_attributes.json": "5fdd4a0548e09763f3a86811aadd58d465bd71974a839009e06590517d36d258",
+  "docs/verify_local.json": "4cdc0cf27818d8aa1a4625bffb2d837ec348017ecc49375eb99b471fcd4bc533"
+ }
+}
