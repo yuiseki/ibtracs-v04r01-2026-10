@@ -1,0 +1,18 @@
+{
+ "csv_rows": 730304,
+ "parquet_rows": 730304,
+ "joined_rows": 730304,
+ "columns": 174,
+ "cells_compared": 127072896,
+ "columns_with_differences": 0,
+ "nonnull_matches_columns_tsv": true,
+ "units_match": true,
+ "storms_csv": 13631,
+ "storms_netcdf": 13631,
+ "netcdf_numobs_sum": 730304,
+ "storms_with_different_row_count": 0,
+ "distinct_sid_in_parquet": 13631,
+ "netcdf_license_attribute": "These data may be redistributed and used without restriction.",
+ "problems": [],
+ "ok": true
+}
